@@ -1,0 +1,5 @@
+ecdsa
+eth-utils
+eth-keys
+eth-hash[pycryptodome]
+base58
