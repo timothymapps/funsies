@@ -10,3 +10,6 @@ ecdsa
 mnemonic
 xxhash
 bip-utils
+coincurve
+safe-pysha3
+cryptography
