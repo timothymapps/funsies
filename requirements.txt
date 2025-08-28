@@ -3,3 +3,10 @@ eth-utils
 eth-keys
 eth-hash[pycryptodome]
 base58
+matplotlib
+numpy
+pycryptodome
+ecdsa
+mnemonic
+xxhash
+bip-utils
