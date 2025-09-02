@@ -13,3 +13,5 @@ bip-utils
 coincurve
 safe-pysha3
 cryptography
+networkx
+dagviz
