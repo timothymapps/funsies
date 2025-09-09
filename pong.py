@@ -39,6 +39,9 @@ def clamp_paddle(rect):
     if rect.bottom > HEIGHT:
         rect.bottom = HEIGHT
 
+
+
+
 def render_text(surface, text, size, color, center):
     font = pygame.font.Font(FONT_NAME, size)
     surf = font.render(text, True, color)
